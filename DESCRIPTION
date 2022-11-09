@@ -1,0 +1,11 @@
+Package: aplanr
+Title: Package to help with analysis plan creation
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sam", "Pamrar", , "parmartsam@gmail.com", role = c("aut", "cre"))
+Description: Automates repetive tasks that arise during analysis plan 
+  creation. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
