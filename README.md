@@ -6,8 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of aplanr is to help with analysis plan creation by automating
-repetitive tasks that may arise during the process.
+Create your **a**nalysis **plan** in **R**. The goal of aplanr is to
+help with analysis plan creation by automating repetitive tasks that may
+arise during the process.
 
 ## Installation
 
